@@ -1,4 +1,11 @@
+//A program to check whether a string is palindrome or not.
+//By Fasasi Sherif
+
+
+/*Program begins*/
 you = "Sherif"
+
+/*I declared a function*/
 
 function myfunc(word){
     var check = [you];
@@ -31,10 +38,11 @@ function myfunc(word){
         console.log("This not a palindrome word")
     }
 }
+/*The function ends here*/
 
 myfunc(you)
 
-
+/*Program ends*/
 
 
 
